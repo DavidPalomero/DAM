@@ -6,17 +6,90 @@
         xmlns:local="clr-namespace:RepasoAaron"
         mc:Ignorable="d"
         Title="ManejoJSON" Height="450" Width="800" Loaded="Window_Loaded"><!--Triger-->
+
+    <Window.Resources>
+        <Style TargetType="TextBox" x:Key="spRegistros">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+        </Style>
+        
+        <Style TargetType="StackPanel" x:Key="containerRegistros">
+            <Setter Property="Orientation" Value="Horizontal"/>
+            <Setter Property="Margin" Value="0, 5, 0, 5"/>
+        </Style>
+    </Window.Resources>
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <DataGrid x:Name="dgJson" Width="800" Height="450" ItemsSource="{Binding Pokemones}" MouseLeftButtonDown="mostrarDatosPokemon" AutoGenerateColumns="False" CanUserAddRows="False">
+        <DataGrid x:Name="dgJson" ItemsSource="{Binding Pokemones}" MouseLeftButtonUp="mostrarDatosPokemon" AutoGenerateColumns="False" CanUserAddRows="False">
             <Grid.Column>0</Grid.Column>
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Nombre del Pokemon" Width="*" Binding="{Binding Nombre}"/>
             </DataGrid.Columns>
         </DataGrid>
+        <Grid x:Name="gridDatosRegistro" Visibility="Hidden">
+            <Grid.Column>1</Grid.Column>
+            <Grid.Margin>5</Grid.Margin>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!--Datos del registro-->
+            <StackPanel>
+                <Grid.Column>0</Grid.Column>
+                <Grid.Row>0</Grid.Row>
+
+                <StackPanel Style="{StaticResource containerRegistros}">
+                    <Label FontWeight="Bold">Nº Pokedex</Label>
+                    <TextBox x:Name="nPokedex" Style="{StaticResource spRegistros}"/>
+                </StackPanel>
+
+                <StackPanel Style="{StaticResource containerRegistros}">
+                    <Label FontWeight="Bold">Nombre</Label>
+                    <TextBox x:Name="nombre" Style="{StaticResource spRegistros}"/>
+                </StackPanel>
+
+                <StackPanel Style="{StaticResource containerRegistros}">
+                    <Label FontWeight="Bold">Tipo 1</Label>
+                    <TextBox x:Name="tipo1" Style="{StaticResource spRegistros}"/>
+                </StackPanel>
+
+                <StackPanel Style="{StaticResource containerRegistros}">
+                    <Label FontWeight="Bold">Tipo 2</Label>
+                    <TextBox x:Name="tipo2" Style="{StaticResource spRegistros}"/>
+                </StackPanel>
+                
+            </StackPanel>
+
+            <Border>
+                <Grid.Row>0</Grid.Row>
+                <Grid.Column>1</Grid.Column>
+                <Border.BorderThickness>2</Border.BorderThickness>
+                <Border.BorderBrush>black</Border.BorderBrush>
+                <Grid x:Name="imgRegistro"/>
+            </Border>
+
+            <StackPanel>
+                <Grid.Row>1</Grid.Row>
+                <Grid.ColumnSpan>2</Grid.ColumnSpan> <!--Une celdas-->
+                <Button x:Name="cerrarRegistro" Click="cerrarRegistro_Click">
+                    <Button.Margin>10, 20</Button.Margin>
+                    <Button.Height>50</Button.Height>
+                    <Button.Content>Cerrar Registro</Button.Content>
+                </Button>
+            </StackPanel>
+        </Grid>
     </Grid>
 </Window>

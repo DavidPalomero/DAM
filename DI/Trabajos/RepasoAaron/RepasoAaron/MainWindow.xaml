@@ -3,9 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:RepasoAaron"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"><!--Material desing Se instala a nivel de proyecto-->
 
     <Window.Resources>
         <Style TargetType="Button" x:Key="boton_heredar">
@@ -15,28 +16,51 @@
         <Style TargetType="Button" x:Key="styleBtn1" BasedOn="{StaticResource boton_heredar}">
             <Setter Property="Background" Value="Aquamarine"/>
         </Style>
+        <Style TargetType="Window" x:Key="WindowStyle">
+            <Setter Property="Background" Value="LemonChiffon"/>
+        </Style>
         <!--BaseOn para heredar Stilos-->
         <Style TargetType="Button" BasedOn="{StaticResource boton_heredar}">
-            
         </Style>
-
     </Window.Resources>
-    
+
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
 
         <!--Boton 1-->
-        <Button x:Name="bnt1" Style="{StaticResource styleBtn1}" Click="bnt1_Click"> 
+        <Button x:Name="bnt1" Style="{StaticResource styleBtn1}" Click="bnt1_Click">
             <Button.Content>Abrir ventana 1</Button.Content>
+            <Grid.Row>0</Grid.Row>
             <Grid.Column>0</Grid.Column>
         </Button>
-        
+
         <!--Boton 2-->
         <Button x:Name="bnt2" Click="bnt2_Click">
             <Button.Content>Abrir ventana 2</Button.Content>
+            <Grid.Row>0</Grid.Row>
+            <Grid.Column>1</Grid.Column>
+        </Button>
+
+        <!--Boton 3-->
+        <Button x:Name="btn3" Click="btn3_Click">
+            <Button.Content>Cambiar Estilo</Button.Content>
+            <Grid.Row>1</Grid.Row>
+            <Grid.Column>0</Grid.Column>
+        </Button>
+
+        <!--Boton 4-->
+        <Button x:Name="btn4" Click="btn4_Click">
+            <Button.Content>
+                <materialDesign:PackIcon Kind="File" Width="80" Height="80"/><!--Material Desing-->
+            </Button.Content>
+            <Grid.Row>1</Grid.Row>
             <Grid.Column>1</Grid.Column>
         </Button>
     </Grid>

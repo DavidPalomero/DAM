@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6I4Bn1yWTY7i/KEOgsKFylXqLiQi5nL+DB+EMCmZE4gALupl4TDcbBGPe3PpuGIM1vux/OSVEqiZuSrQdMXyKA==",
+  "dgSpecHash": "RgKc/NMJJ8xpaZK5tJC+47OrNLzBZB4u4BIioNSp+KOx/5/tRHKXlukqNtx5jHVrFuGm+g9OmSLY8b+SlyWnwQ==",
   "success": true,
   "projectFilePath": "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []

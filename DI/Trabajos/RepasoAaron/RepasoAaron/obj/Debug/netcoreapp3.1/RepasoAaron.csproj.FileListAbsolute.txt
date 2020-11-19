@@ -21,3 +21,10 @@ H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3
 H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\RepasoAaron.dll
 H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\RepasoAaron.pdb
 H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\RepasoAaron.genruntimeconfig.cache
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\ventanaCanvas.g.cs
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\ventanaCanvas.baml
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\App.baml
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\ManejoFicheros.g.cs
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\ManejoFicheros.baml
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll

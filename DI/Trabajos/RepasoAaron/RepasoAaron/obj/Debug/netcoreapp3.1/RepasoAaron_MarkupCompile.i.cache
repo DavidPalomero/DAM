@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\App.xaml
-21312694451
+4-1627412881
 
-72117848853
-193739912373
-MainWindow.xaml;ManejoJSON.xaml;
+91773203282
+195-1718314624
+MainWindow.xaml;ManejoFicheros.xaml;ManejoJSON.xaml;ventanaCanvas.xaml;
 
-False
+True
 
