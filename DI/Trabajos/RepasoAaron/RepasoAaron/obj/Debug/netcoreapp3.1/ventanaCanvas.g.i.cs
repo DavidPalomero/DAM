@@ -61,7 +61,7 @@ namespace RepasoAaron {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RepasoAaron;component/ventanacanvas.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RepasoAaron;V1.0.0.0;component/ventanacanvas.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ventanaCanvas.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

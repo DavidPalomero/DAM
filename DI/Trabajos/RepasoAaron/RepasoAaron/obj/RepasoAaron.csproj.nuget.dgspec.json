@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {}
+    "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {}
   },
   "projects": {
-    "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {
+    "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
+        "projectUniqueName": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
         "projectName": "RepasoAaron",
-        "projectPath": "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
-        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "H:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\obj\\",
+        "projectPath": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
+        "packagesPath": "C:\\Users\\DAW1\\.nuget\\packages\\",
+        "outputPath": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DAW1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

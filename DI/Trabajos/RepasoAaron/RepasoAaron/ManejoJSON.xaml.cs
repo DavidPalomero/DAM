@@ -31,6 +31,7 @@ namespace RepasoAaron
      
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+
             string filemone = Environment.CurrentDirectory + rutaJson + "/pokemones.json";
             string json = File.ReadAllText(filemone); //contenido del archivo
 

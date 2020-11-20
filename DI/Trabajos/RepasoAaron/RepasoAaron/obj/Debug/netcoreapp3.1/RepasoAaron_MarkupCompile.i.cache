@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\
+E:\RepositorioGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\obj\Debug\netcoreapp3.1\
 RepasoAaron
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-H:\RepositoriosGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\App.xaml
+E:\RepositorioGit\DAM\DI\Trabajos\RepasoAaron\RepasoAaron\App.xaml
 4-1627412881
 
 91773203282
-195-1718314624
+195260527709
 MainWindow.xaml;ManejoFicheros.xaml;ManejoJSON.xaml;ventanaCanvas.xaml;
 
-True
+False
 
