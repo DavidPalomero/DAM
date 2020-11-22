@@ -1,7 +1,26 @@
-[{"Id_Articulo":1,"Id_ProcesoFabricacion":101,"Fecha":"12/11/2020",
-"Hora":"10:20","TiempoEmpeadoFabricacion":1.30,"Cantidad":100},
-{"Id_Articulo":2,"Id_ProcesoFabricacion":101,"Fecha":"12/11/2020",
-"Hora":"10:20","TiempoEmpeadoFabricacion":1.30,"Cantidad":5678},
-{"Id_Articulo":3,"Id_ProcesoFabricacion":101,"Fecha":"12/11/2020",
-"Hora":"10:20","TiempoEmpeadoFabricacion":1.30,"Cantidad":6789}
+[
+  {
+    "Id_Articulo": 1,
+    "Id_ProcesoFabricacion": 101,
+    "Fecha": "12/11/2020",
+    "Hora": "10:20",
+    "TiempoEmpeadoFabricacion": 1.30,
+    "Cantidad": 100
+  },
+  {
+    "Id_Articulo": 2,
+    "Id_ProcesoFabricacion": 101,
+    "Fecha": "12/11/2020",
+    "Hora": "10:20",
+    "TiempoEmpeadoFabricacion": 1.30,
+    "Cantidad": 5678
+  },
+  {
+    "Id_Articulo": 3,
+    "Id_ProcesoFabricacion": 101,
+    "Fecha": "12/11/2020",
+    "Hora": "10:20",
+    "TiempoEmpeadoFabricacion": 1.30,
+    "Cantidad": 6789
+  }
 ]

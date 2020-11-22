@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {}
+    "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {}
   },
   "projects": {
-    "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {
+    "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
+        "projectUniqueName": "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
         "projectName": "RepasoAaron",
-        "projectPath": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
-        "packagesPath": "C:\\Users\\DAW1\\.nuget\\packages\\",
-        "outputPath": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\obj\\",
+        "projectPath": "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\DAW1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MaterialDesignThemes": {
               "target": "Package",
@@ -69,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

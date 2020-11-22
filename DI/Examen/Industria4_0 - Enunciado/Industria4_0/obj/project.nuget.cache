@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K2oy2+B2m91ChHCRwNdLy+DezprwKkUskxg4CVc6/H1WxMTEUcy4s/p2/Z8REzzdlMlXNn1kEhIwAaypVLFFYg==",
+  "dgSpecHash": "NnMHolwDgVBO2jUaObM6xfa9V4amJwTrbZb47gfKVveX725hJ74x+bCyAP0bn7LX1C5VdbusBMrtjKA+h1KUkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
+  "projectFilePath": "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DAW1\\.nuget\\packages\\materialdesigncolors\\2.0.0-ci2273\\materialdesigncolors.2.0.0-ci2273.nupkg.sha512",
-    "C:\\Users\\DAW1\\.nuget\\packages\\materialdesignthemes\\4.0.0-ci2273\\materialdesignthemes.4.0.0-ci2273.nupkg.sha512",
-    "C:\\Users\\DAW1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\david\\.nuget\\packages\\materialdesigncolors\\2.0.0-ci2273\\materialdesigncolors.2.0.0-ci2273.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\materialdesignthemes\\4.0.0-ci2273\\materialdesignthemes.4.0.0-ci2273.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

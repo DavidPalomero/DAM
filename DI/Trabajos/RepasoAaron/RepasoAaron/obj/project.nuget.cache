@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "N+9J5HcQRLxZn5Zmi2aXTwjRptqO2Q6oxWIt1hDKSlMlT35JTiQgC84fTZXcKh1F2awL89qJ6uycswJ8Kfs9xQ==",
+  "dgSpecHash": "MPFmRtLpQJt5fVUk+j5Ss0+qfjsNsJq1O7WZQBeIBKFJ9aht5pUlsnm9DHzzGH4x6hLg/45+j4qK/f01ttO/rQ==",
   "success": true,
-  "projectFilePath": "E:\\RepositorioGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
+  "projectFilePath": "G:\\RepositoriosGit\\DAM\\DI\\Trabajos\\RepasoAaron\\RepasoAaron\\RepasoAaron.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DAW1\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
-    "C:\\Users\\DAW1\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
-    "C:\\Users\\DAW1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\david\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
