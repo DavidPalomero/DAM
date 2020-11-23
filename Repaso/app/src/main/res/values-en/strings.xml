@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TitleLoadDialog">Loading App</string>
+    <string name="TitleLoadMessage">Waiting componets. wait..</string>
+    <string name="machote">Macho Men</string>
+    <string name="tejon">Racoon</string>
+    <string name="demaciaaaaaa">Demaciaaaa en Ingles</string>
+    <string name="serpuente">Snake</string>
+</resources>
