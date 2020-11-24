@@ -1,0 +1,19 @@
+package ejemplo3;
+
+public class Ejemplo3_0 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Runtime r = Runtime.getRuntime();
+		String comando = "java Ejemplo3 'Hola Mundo'";
+		
+		Process p = null;
+		
+		if (args.length) {
+			
+		}
+
+	}
+
+}

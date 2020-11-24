@@ -1,0 +1,15 @@
+package hilos;
+
+public class Hilos extends Thread {
+
+	public Hilos() {
+		
+		
+		
+	}
+	
+	public void run() {
+		
+	}
+	
+}

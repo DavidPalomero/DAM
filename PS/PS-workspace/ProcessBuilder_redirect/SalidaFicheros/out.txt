@@ -1,0 +1,10 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 0A22-A9F3
+
+ Directorio de C:\Users\DAW1\eclipse-workspace\ProcessBuilder_redirect\src
+
+04/11/2020  09:39    <DIR>          .
+04/11/2020  09:39    <DIR>          ..
+04/11/2020  09:50    <DIR>          processBuilder_redirect
+               0 archivos              0 bytes
+               3 dirs  159.988.776.960 bytes libres

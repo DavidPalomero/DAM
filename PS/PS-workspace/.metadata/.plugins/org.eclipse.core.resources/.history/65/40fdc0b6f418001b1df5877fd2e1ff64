@@ -1,0 +1,23 @@
+package actividad01;
+
+public class Actividad01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Runtime r = Runtime.getRuntime();
+		String comando = "";
+		Process p;
+		
+		try {
+			
+			p = r.exec(comando);
+			
+		} catch (Exception e) {
+			System.out.println("Error en: " + comando);
+			e.printStackTrace();
+		}
+
+	}
+
+}

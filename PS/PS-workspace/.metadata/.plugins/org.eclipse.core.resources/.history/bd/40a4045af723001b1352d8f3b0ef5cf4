@@ -1,0 +1,19 @@
+package hilos;
+
+public class Hilos extends Thread {
+
+	int n;
+	
+	public Hilos(int n) {
+		this.n = n;
+	}
+	
+	public void run() {
+		System.out.println("Creando hilo " + i);
+		
+		for (int ) {
+			
+		}
+	}
+	
+}
