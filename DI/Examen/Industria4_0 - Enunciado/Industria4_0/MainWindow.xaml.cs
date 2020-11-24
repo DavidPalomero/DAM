@@ -23,10 +23,8 @@ namespace Industria4_0
     /// </summary>
     public partial class MainWindow : Window
     {
-        //lista de los productos y fabricados
+        //lista de los productos
         private List<Productos> listaProductos = new List<Productos>();
-        private List<Fabricados> listaFabricados = new List<Fabricados>();
-        private List<Productos> productosFabrica = new List<Productos>();
 
         public MainWindow()
         {
@@ -38,50 +36,28 @@ namespace Industria4_0
         private void VisualizaProductos()
         {
             //abrir un fichero
-            string jsonProductos = File.ReadAllText("productos.json"); //contenido del archivo
-            string jsonFabricados = File.ReadAllText("fabricados.json"); //contenido del archivo
+            string fileName = "productos.json";
+            string json = File.ReadAllText(fileName); //contenido del archivo
 
-            listaFabricados = JsonConvert.DeserializeObject<List<Fabricados>>(jsonFabricados);
-            listaProductos = JsonConvert.DeserializeObject<List<Productos>>(jsonProductos);
+            listaProductos = JsonConvert.DeserializeObject<List<Productos>>(json);
 
             int fil = 0;
-            string linea;
 
             foreach (Productos p in listaProductos)
             {
-                //Objeto producto para rellenar la lista de productosFabrica
-                Productos producto = new Productos();
-
-                //Objeto producto para obtener el fabricado con el mismo id que el producto
-                Fabricados fabricado = new Fabricados();
-                foreach (Fabricados f in listaFabricados)
-                {
-                    if (p.Id_Articulo == f.Id_Articulo)
-                    {
-                        fabricado = f;
-                        break;
-                    }
-                }
-
-                //para definir que estilo debe llevar cada linea
-                if (fil % 2 == 0)
-                {
-                    linea = "Par";
-                } else
-                {
-                    linea = "Impar";
-                }
-
                 // Definimos la fila y la añadimos
-                rejillaProductos.RowDefinitions.Add(new RowDefinition());
 
-                //creacion de un objeto BitmapImage
+                int num = fil % 2;
+                rejillaProductos.RowDefinitions.Add(new RowDefinition { 
+                    Style = (Style)this.Resources[(num == 0) ? "Par" : "Impar"] // Intento Poner el estilo de par o inpar
+                });
+
+                
                 BitmapImage bi = new BitmapImage();
                 bi.BeginInit();
                 bi.UriSource = new Uri(Environment.CurrentDirectory + "/" + p.UrlImagen);
                 bi.EndInit();
 
-                //añadimos la imagen al grid
                 Grid grid = new Grid();
                 Grid.SetRow(grid, fil);
                 Grid.SetColumn(grid, 0);
@@ -94,50 +70,37 @@ namespace Industria4_0
                 //contenido del Id_Articulo
                 Label lb1 = new Label();
                 lb1.Content = p.Id_Articulo;
-                lb1.Style = (Style)this.Resources[linea];
                 Grid.SetRow(lb1, fil);
                 Grid.SetColumn(lb1, 1);
                 rejillaProductos.Children.Add(lb1);
-                producto.Id_Articulo = p.Id_Articulo;
 
                 //contenido del Descripcion
                 Label lb2 = new Label();
                 lb2.Content = p.Descripcion;
-                lb2.Style = (Style)this.Resources[linea];
                 Grid.SetRow(lb2, fil);
                 Grid.SetColumn(lb2, 2);
                 rejillaProductos.Children.Add(lb2);
-                producto.Descripcion = p.Descripcion;
 
                 //contenido del Stock
                 Label lb3 = new Label();
-                lb3.Content = p.Stock + fabricado.Cantidad;
-                lb3.Style = (Style)this.Resources[linea];
+                lb3.Content = p.Stock;
                 Grid.SetRow(lb3, fil);
                 Grid.SetColumn(lb3, 3);
                 rejillaProductos.Children.Add(lb3);
-                producto.Stock = p.Stock + fabricado.Cantidad;
 
                 //contenido del StockMinimo
                 Label lb4 = new Label();
                 lb4.Content = p.StockMinimo;
-                lb4.Style = (Style)this.Resources[linea];
                 Grid.SetRow(lb4, fil);
                 Grid.SetColumn(lb4, 4);
                 rejillaProductos.Children.Add(lb4);
-                producto.StockMinimo = p.StockMinimo;
 
                 //contenido del TiempoFabricacionAcumulado
                 Label lb5 = new Label();
-                lb5.Content = p.TiempoFabricacionAcumulado + fabricado.TiempoEmpeadoFabricacion;
-                lb5.Style = (Style)this.Resources[linea];
+                lb5.Content = p.TiempoFabricacionAcumulado;
                 Grid.SetRow(lb5, fil);
                 Grid.SetColumn(lb5, 5);
                 rejillaProductos.Children.Add(lb5);
-                producto.TiempoFabricacionAcumulado = p.TiempoFabricacionAcumulado + fabricado.TiempoEmpeadoFabricacion;
-
-
-                productosFabrica.Add(producto);
 
                 //aumnetamos en uno la fila por cada paso del bucle
                 fil++;
@@ -152,29 +115,33 @@ namespace Industria4_0
                 Filter = "Fichero JSON|*.json",
                 Title = "Selecciona un archivo"
             };
-
-            if (sfd.ShowDialog() == false)
-            {
-                MessageBox.Show("Error al guardar el archivo");
-            }
-            else
-            {
-                string path = sfd.FileName;
-                string json = JsonConvert.SerializeObject(listaFabricados);
-                File.WriteAllText(path, json);
-            }
-
         }
 
 
         private void Leer_Click(object sender, RoutedEventArgs e)
         {
-                string fileName = "fabricados.json"; //Ruta del archivo
+            //abrir un fichero
+            OpenFileDialog ofd = new OpenFileDialog
+            {
+                Filter = "Fichero JSON|*.json",
+                Multiselect = false,
+                Title = "Selecciona un archivo"
+            };
+
+            //comprobar si abre el fichero correctamente 
+            if (ofd.ShowDialog() == true)
+            {
+                string fileName = ofd.FileName; //Ruta del archivo
                 string json = File.ReadAllText(fileName); //contenido del archivo
 
-                listaFabricados = JsonConvert.DeserializeObject<List<Fabricados>>(json);
+                listaProductos = JsonConvert.DeserializeObject<List<Productos>>(json);
 
-                RegistroApuntes.ItemsSource = listaFabricados;
+                RegistroApuntes.ItemsSource = listaProductos;
+            }
+            else // Si no habre el fichero correctamente entonces muestra un mensaje
+            {
+                MessageBox.Show("Error al abrir el fuchero");
+            }
         }
 
         private void Salir_Click(object sender, RoutedEventArgs e)

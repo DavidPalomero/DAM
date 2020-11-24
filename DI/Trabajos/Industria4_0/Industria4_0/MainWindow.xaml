@@ -1,0 +1,117 @@
+﻿<Window x:Class="Industria4_0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      
+        xmlns:local="clr-namespace:Industria4_0"
+        mc:Ignorable="d"
+        Title="Industia 4.0" Height="886" Width="1288">
+
+    <Window.Resources>
+        <Style TargetType="Label" x:Key="Par">
+            <Setter Property="Control.Background" Value="#FFA5E6D7"/>
+        </Style>
+        <Style TargetType="Label" x:Key="Impar">
+            <Setter Property="Control.Background" Value="#FFA0D48D"/>
+        </Style>
+        <!--estilo toolbar-->
+        <Style TargetType="ToolBar" x:Key="styMenu">
+            <Setter Property="Background" Value="MediumAquamarine"/>
+        </Style>
+        <!--estilo botones-->
+        <Style TargetType="Button" x:Key="styBoton">
+            <Setter Property="Background" Value="MediumAquamarine"/>
+            <Setter Property="Margin" Value="15,0"/>
+        </Style>
+        <!--estlo cabecera-->
+        <Style TargetType="StackPanel" x:Key="styCabecera">
+            <Setter Property="Background" Value="Aqua"/>
+        </Style>
+        <Style TargetType="Label" x:Key="styLabel">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="0,0,10,27">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="437*"/>
+            <ColumnDefinition Width="119*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="89*"/>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="663*"/>
+        </Grid.RowDefinitions>
+        <!-- 
+        https://docs.microsoft.com/es-es/dotnet/api/system.windows.controls.datagrid.columnheaderstyle?view=net-5.0
+        -->
+        <DataGrid ItemsSource="{Binding fabricados}" AutoGenerateColumns="False" CanUserAddRows="False" x:Name="RegistroApuntes" HorizontalAlignment="Center" Height="823" Margin="0,10,0,0" VerticalAlignment="Top" Width="219" Grid.Column="1" Grid.Row="0" Grid.RowSpan="3" SelectionChanged="RegistroApuntes_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="   ID_Articulo" Width="*" Binding="{Binding Id_Articulo}">
+                    <DataGridColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="Background" Value="#FFEE6313"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontSize" Value="12"/>
+                            <Setter Property="Margin" Value="0,0,5,0"/>
+                        </Style>
+                    </DataGridColumn.HeaderStyle>
+
+                </DataGridTextColumn>
+                <DataGridTextColumn  Header= " Cantidad" Width="*" Binding="{Binding Cantidad}">
+                    <DataGridColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="Background" Value="#FFEE6313"/>
+                            <Setter Property="Foreground" Value="White"/>
+                            <Setter Property="FontSize" Value="12"/>
+                            <Setter Property="Margin" Value="5, 0,0,0"/>
+                        </Style>
+                    </DataGridColumn.HeaderStyle>
+                </DataGridTextColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <ToolBar HorizontalAlignment="Center" Height="103" VerticalAlignment="Center" Width="1020" Style="{StaticResource styMenu}">
+            <Button x:Name="Leer" Height="102" Width="108" VerticalAlignment="Stretch" Click="Leer_Click" Style="{StaticResource styBoton}">
+                <Button.Content>
+                    <materialDesign:PackIcon Kind="Factory" Width="80" Height="80"/>
+                </Button.Content>
+            </Button>
+            <Button    VerticalAlignment="Stretch" Height="102" Width="108" x:Name="GrabarFichero" Click="GrabarFichero_Click" HorizontalAlignment="Left" Style="{StaticResource styBoton}">
+                <Button.Content>
+                    <materialDesign:PackIcon Kind="ContentSave" Width="80" Height="80"/>
+                </Button.Content>
+            </Button>
+            <Button x:Name="Salir"   Height="102" Width="108" VerticalAlignment="Stretch" Click="Salir_Click" Style="{StaticResource styBoton}">
+                <Button.Content>
+                    <materialDesign:PackIcon Kind="ExitToApp" Width="80" Height="80"/>
+                </Button.Content>
+            </Button>
+        </ToolBar>
+        <StackPanel Style="{StaticResource styCabecera}" HorizontalAlignment="Center" Grid.Row="1"    Orientation="Horizontal" Margin="0,7,0,45" Width="1020"  >
+            <!--  <Image x:Name="ImagenProducto" Height="31" Margin="10,10,0,0" VerticalAlignment="Top" Width="50" OpacityMask="#FFE82E2E" Grid.Row="2"/>-->
+            <!--  <Image x:Name="ImagenProducto" Height="31" Margin="10,10,0,0" VerticalAlignment="Top" Width="50" OpacityMask="#FFE82E2E" Grid.Row="2"/>-->
+            <Label Content="Imagen" Width="125" Style="{StaticResource styLabel}"/>
+            <Label Content="IdArt." Width="112" Style="{StaticResource styLabel}"/>
+            <Label Content="Descripción" Width="345" RenderTransformOrigin="0.508,1.288" Style="{StaticResource styLabel}"/>
+            <Label Content="Stok" Width="130" Style="{StaticResource styLabel}"/>
+            <Label Content="Sto.Minimo" Width="177" Style="{StaticResource styLabel}"/>
+            <Label Content="Tiempo.Fabric." Width="126" Style="{StaticResource styLabel}"/>
+        </StackPanel>
+        <Grid  ShowGridLines="True" x:Name="rejillaProductos" HorizontalAlignment="Center" Height="661" Margin="0,51,0,0" Grid.Row="1" VerticalAlignment="Top" Width="1005" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="125.4"/>
+                <ColumnDefinition Width="80*"/>
+                <ColumnDefinition Width="378"/>
+                <ColumnDefinition Width="103*"/>
+                <ColumnDefinition Width="176*"/>
+                <ColumnDefinition Width="143*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </Grid>
+</Window>

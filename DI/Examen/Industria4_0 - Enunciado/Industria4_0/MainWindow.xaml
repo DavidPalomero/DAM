@@ -10,10 +10,10 @@
         Title="Industia 4.0" Height="886" Width="1288">
 
     <Window.Resources>
-        <Style TargetType="Label" x:Key="Par">
+        <Style TargetType="RowDefinition" x:Key="Par">
             <Setter Property="Control.Background" Value="#FFA5E6D7"/>
         </Style>
-        <Style TargetType="Label" x:Key="Impar">
+        <Style TargetType="RowDefinition" x:Key="Impar">
             <Setter Property="Control.Background" Value="#FFA0D48D"/>
         </Style>
         <!--estilo toolbar-->

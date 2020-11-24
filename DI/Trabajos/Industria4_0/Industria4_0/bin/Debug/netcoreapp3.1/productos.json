@@ -1,0 +1,34 @@
+[
+  {
+    "Id_Articulo": 1,
+    "Descripcion": "Rodamiento Doble",
+    "UrlImagen": "Imagenes/RDobleV.jpg",
+    "Stock": 10,
+    "StockMinimo": 1,
+    "TiempoFabricacionAcumulado": 1.30
+  },
+  {
+    "Id_Articulo": 2,
+    "Descripcion": "Dron modelo Mosquito ",
+    "UrlImagen": "Imagenes/mosquito.png",
+    "Stock": 10,
+    "StockMinimo": 1,
+    "TiempoFabricacionAcumulado": 1.30
+  },
+  {
+    "Id_Articulo": 3,
+    "Descripcion": "Tuerca doble alumnio ",
+    "UrlImagen": "Imagenes/Tuerca.PNG",
+    "Stock": 10,
+    "StockMinimo": 1,
+    "TiempoFabricacionAcumulado": 1.30
+  },
+  {
+    "Id_Articulo": 4,
+    "Descripcion": "Motor élices dron ",
+    "UrlImagen": "Imagenes/Motor.PNG",
+    "Stock": 10,
+    "StockMinimo": 1,
+    "TiempoFabricacionAcumulado": 1.30
+  }
+]

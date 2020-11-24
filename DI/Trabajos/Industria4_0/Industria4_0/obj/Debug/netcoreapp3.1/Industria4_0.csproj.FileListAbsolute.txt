@@ -1,0 +1,161 @@
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+Q:\Verano2020\Di\Core\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Solución\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+Q:\Verano2020\Di\Trabajo Alumnos\Examen1Eval\Examen2\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+C:\Users\DAW1\Desktop\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+G:\RepositoriosGit\DAM\DI\Examen\Industria4_0 - Enunciado\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csprojAssemblyReference.cache
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\App.g.cs
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.cache
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0_MarkupCompile.lref
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.dll
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.pdb
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.exe
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.deps.json
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.json
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.runtimeconfig.dev.json
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.dll
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Industria4_0.pdb
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.g.resources
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfoInputs.cache
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.AssemblyInfo.cs
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CoreCompileInputs.cache
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.csproj.CopyComplete
+E:\RepositorioGit\DAM\DI\Trabajos\Industria4_0\Industria4_0\obj\Debug\netcoreapp3.1\Industria4_0.genruntimeconfig.cache

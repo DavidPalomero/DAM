@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj": {}
+    "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj": {}
   },
   "projects": {
-    "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj": {
+    "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
+        "projectUniqueName": "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
         "projectName": "Industria4_0",
-        "projectPath": "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "G:\\RepositoriosGit\\DAM\\DI\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\obj\\",
+        "projectPath": "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\Industria4_0.csproj",
+        "packagesPath": "C:\\Users\\DAW1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DAW1\\Desktop\\Examen\\Industria4_0 - Enunciado\\Industria4_0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DAW1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,7 +30,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MaterialDesignThemes": {
               "target": "Package",
@@ -71,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
