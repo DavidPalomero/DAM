@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Repaso</string>
+
+    <string name="TitleLoadDialog">Cargardo Aplicación</string>
+    <string name="TitleLoadMessage">Cargardo los componentes. Espere...</string>
+
+    <string name="yasuo" translatable="false">Yasuo</string>
+    <string name="garen" translatable="false">Garen</string>
+    <string name="cassiopeia" translatable="false">Cassiopeia</string>
+    <string name="teemo" translatable="false">Teemo</string>
+
+    <string name="jonia" translatable="false">Jonia</string>
+    <string name="noxus" translatable="false">Noxus</string>
+    <string name="bandle" translatable="false">Bandle</string>
+    <string name="demacia" translatable="false">Demacia</string>
+
+    <string name="machote">Machote</string>
+    <string name="tejon">Tejon</string>
+    <string name="demaciaaaaaa">Demaciaaaaaa</string>
+    <string name="serpuente">serpiente</string>
+</resources>

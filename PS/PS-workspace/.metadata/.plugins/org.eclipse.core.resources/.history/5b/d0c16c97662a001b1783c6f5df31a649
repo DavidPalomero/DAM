@@ -1,0 +1,14 @@
+package hiloT;
+
+public class HiloT extends Thread{private int id;
+
+	public HiloT(int id) {
+		this.id = id;
+	}
+
+public void run() {
+    for(int i = 0; i<100; i++) {
+        System.out.println("[T]Ejecutándose el hilo "+id+" Contador: "+i);
+    }
+}
+}
