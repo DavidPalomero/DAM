@@ -7,6 +7,8 @@ public class Vehiculo {
 	private int capacidaDeposito = 0;
 	private int consumo = 0;
 	
+	
+	
 	//Constructor
 	public Vehiculo(int plazas, int capacidaDeposito, int consumo) {
 		super();

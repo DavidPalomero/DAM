@@ -13,11 +13,9 @@ public class GenerarVehiculos {
 		System.out.println("El coche puede llevar " + coche.getPlazas() + 
 				" pasajeros y tiene una autonomia de " + coche.autonomia() +
 				"Km con el deposito lleno");
+		
 		System.out.println("El coche puede llevar " + sport.getPlazas() + 
 				" pasajeros y tiene una autonomia de " + sport.autonomia() +
 				"Km con el deposito lleno");
 	}
-	
-	
-
 }
